@@ -17,8 +17,8 @@ The dataset contains hundreds and thousands of comfort inn hotel reservations th
 	Number of Guests 
 	Price (USD)
 This Data spans the entire year, covering multiple cities and booking platforms.
-Data Privacy and Anonymization Note:
-	Important Disclaimer:
+## Data Privacy and Anonymization Note:
+## Important Disclaimer:
 This dataset is not 100% real world data. To protect customer privacy and maintain trust in the hotel business and booking platforms data masking, Value modifications and anonymization technique were applied. 
 No personally identifiable information (PII) is included. The dataset is intended solely for academic, analytical and demonstration purposes.
 
